@@ -1,0 +1,5 @@
+{
+  "project_name": "RESTAlchemy API Scaffold",
+  "repo_name": "{{cookiecutter.project_name.lower().strip().replace(' ', '_').replace(':', '_').replace('-', '_').replace('!', '_')}}",
+  "api_name": "{{cookiecutter.project_name}} API"
+}
